@@ -19,7 +19,7 @@ export default function Home() {
           </p>
         </section>
 
-        <img src="" alt="Girl coding" />
+        <img src="/images/avatar.svg" alt="Girl coding" />
       </main>
     </>
   )
